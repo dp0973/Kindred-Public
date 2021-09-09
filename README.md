@@ -36,7 +36,7 @@ Discord bot searching your specific match record!
 > Riot Games API  
 > Discord Bot API  
 
-## Modify🛠
+## Modify 🛠
 **Customization**  
 > [custom emoji storage](kindred/utils/static/data.py)
 
