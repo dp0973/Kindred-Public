@@ -1,10 +1,10 @@
-# Kindred
+# Kindred 🖥
 <img src="https://img.shields.io/badge/python-v3.9.4-%233776AB?logo=python"> <img src="https://img.shields.io/badge/discord.py-v2.0.0-brightgreen?logo=discord">
 
-## What's this?
+## What's this❓
 Discord bot searching your specific match record!
 
-## What does this do?
+## Functions 📖
 > Search Match History with Details
 
 > Get the user's profile (On Dev)
@@ -13,7 +13,7 @@ Discord bot searching your specific match record!
 
 > Champion Guide (Items, Runes, Summoner Spells) (On Dev)
 
-## How to run
+## Environment ⚙️
 ### Development Env 
 | Module      | Version             |
 | ----------- | ------------------- |
@@ -31,17 +31,17 @@ Discord bot searching your specific match record!
 | RIOT_API_KEY | Riot Games API Key    |
 | MONGO_DB     | Mongo DB Database Url |
 
-## API
+## API📱
 **This bot uses**  
 > Riot Games API  
 > Discord Bot API  
 
-## Modify
+## Modify🛠
 **Customization**  
 > [custom emoji storage](kindred/utils/static/data.py)
 
-## License
+## License 📖
 [CC-BY-NC-4.0](LICENSE)
 
-## Contact
+## Contact 📬
 kindredbot73@gmail.com
