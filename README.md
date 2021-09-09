@@ -1,4 +1,4 @@
-# Kindred in Discord
+# Kindred
 <img src="https://img.shields.io/badge/python-v3.9.4-%233776AB?logo=python"> <img src="https://img.shields.io/badge/discord.py-v2.0.0-brightgreen?logo=discord">
 
 ## What's this?
