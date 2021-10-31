@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/python-v3.9.4-%233776AB?logo=python"> <img src="https://img.shields.io/badge/discord.py-v2.0.0-brightgreen?logo=discord">
 
 ## What's this❓
-Discord bot searching your specific match record!
+Discord bot searching your LoL specific match record!
 
 ## Functions 📖
 > Search Match History with Details
